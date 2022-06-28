@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @79067078716
+- 👋 Hi, I’m Aman Kumar
 - 👀 I’m interested in Python,Cloud Computing, CI/CD Pipeline
 - 🌱 I’m currently learning Python,CI/CD Pipeline, AWS Cloup Computing
 - 💞️ I’m looking to collaborate on Python developer
